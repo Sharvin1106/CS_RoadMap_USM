@@ -1,32 +1,34 @@
 # CS_RoadMap_USM
 
-<h1> CS Roadmap USM </h1>
-
 <p> Welcome onboard amigos </p>
 
 <h2> Year 1 </h2>
 
-<p> In year 1 you will be learning basic concepts of programming mostly functional programming in your first semester and object-oriented in your second semester. You will be exposed to C++ and Python language </p>
+<p> In your 1st year, you will be learning basic concepts of programming mostly, functional programming and object-oriented in your second semester.  You will get exposure to C++ and Python languages. </p>
 
 <h3> Roadmap </h3>
 <h4> Semester 1 </h4>
 
-> Gaddis Book is your holy bible, do as many exercises you can from that book. As it will be really helpful to master your programming concepts
+> Gaddis Book is your holy bible, do as many exercises as you can from that book. It will be helpful to master your programming concepts.
 
-> Complete the lab exercises beforehand you attend lab sessions
-
-> This is not relevant but do spend some time preparing for your university subjects as well
+> This point may be irrelevant, but do spend some time to prepare for your university subjects as well.
 
 <h4> Semester 2 </h4>
 
  
-> This semester you will be exposed to Python, C++ Object Oriented and Data Structures
+> For this semester you will be exposed to Python, C++ Object Oriented and Data Structures.
 
-> You will use libraries such as Numpy, Matplotlib, Scipy and Pandas --> Focused more on Data Anaytics(basics)
+> You will use libraries such as Numpy, Matplotlib, Scipy and Pandas --> Focused more towards Data Analytics(basics).
+> [Python Introductory Video](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=393s)
+> Matplotlib Resources
+> - [Matplotlib Cheatsheet](https://github.com/matplotlib/cheatsheets)
+> Pandas Resources
+> - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+> - [Pandas Cheatsheet 2](https://pydatascience.org/data-science-cheatsheets/)
 
 <h2> Year 2 </h2>
 
-<p> Maybe you would have felt a little boring learning concepts and does not feel any challenging. There comes year 2 to spice up your Year 2 journey.
+<p> All this while, you would have felt little boring learning concepts. You don't feel challenged enough, here comes your 2nd-year syllabus to spice up your journey.
 	
 <h3> Roadmap </h3>
 <h4> Semester 1 </h4>
@@ -37,7 +39,7 @@
 >> #### Web Application
 >> - Learn basic HTML tags (Button tags, HTML forms and etc)
 >> - Learn basic CSS (flexbox, fonts, internal, external and inline styling) 
->> - You can add on Javascript to your frontend to make it interactive (take note during my year mark was not given to Javascript but still it makes your website wowww and also serves as yr portfolio) --> Focus more on DOM property
+>> - You can add on Javascript to your frontend to make it interactive (take note during my year mark was not given to Javascript however still it makes your website look good and also serves as yr portfolio) --> Focus more on DOM property
 >> - Learn PHP for server-side - Basically you should know how to handle POST and GET request
 
 >> #### Java Application - (Mobile/ Desktop App)
@@ -47,24 +49,24 @@
 >> - Familiarize with git controls, recommended use GitHub. For more professional use case can try using Azure Devops(which you will be given access in CSE241 class) or Bitbucket.
 
 <h5>Optional</h5>
-<p> During your semester break try to improvise the projects you have built such as try reimplementing your web application with new web technologies and framework. Also if you create a mobile application for Java Project. Try to make it cross platform. (This will prepare you for your internship or final project ahead of time) </p>
+<p> During your semester break, try to improvise on the projects you have built. Try reimplementing your web application with new web technologies and frameworks. Also, use it for your mobile application for Java Project. Try to make it cross-platform. (This will prepare you for your internship or final project ahead of time)  </p>
 
 Tech you can learn (optional):
-1. Bootstrap / TailwindCSS
+1. [Bootstrap](https://hackerthemes.com/bootstrap-cheatsheet/) / TailwindCSS
 2. Learn any web frameworks (Advanced)
 
 <h5>CMT221</h5>
 
-> If you are planning to major in AI, try to master in SQL because at some point in Data Science LifeCycle you have to deal with structured data which requires the knowledge of SQL (Eg. postgressql to maintain data warehouse)
+> If you are planning to major in AI, try to master in SQL because at some point in Data Science Life-Cycle you have to deal with structured data that requires the knowledge of SQL (Eg. PostgreSQL to maintain a data warehouse)
 
-> Apart from it do pay more attention in lab sessions, as it will really help you to complete your final project in Oracle Apex.
+> Apart from it, do pay more attention to lab sessions, as it will really help you to complete your final project in Oracle Apex.
 
-> Familiariase with DDL, DML, procedure and triggers
+> Familiarise with DDL, DML, procedure and triggers
 
 <h4> Semester 2 </h4>
 
 <h5> CPC251 </h5>
-> This course comprised of two parts. Machine learning and Deep Learning
+> This course is comprised of two parts. Machine learning and Deep Learning
 
 > For machine learning you will be using python
 
@@ -72,9 +74,15 @@ Tech you can learn (optional):
 
 > Libraries used: Scikit, Matplotlib, Pandas, Numpy, PyTorch
 
-> I strongly encourage to pickup tensorflow as its far better than PyTorch in terms of production deployment. Also have vast amount of community support
-- 
+> I strongly encourage you to pickup tensorflow as its way easier than PyTorch in terms of production deployment. Also have vast amount of community support
+>
+> [Machine Learning Videos Tamil](https://www.youtube.com/c/SridharSwaminathan)
+> 
+> [Machine Learning Videos English](https://www.youtube.com/user/Segasist/videos)
 
+Tools:
+
+1. [Google Colab](https://colab.research.google.com/)
 
 
 
